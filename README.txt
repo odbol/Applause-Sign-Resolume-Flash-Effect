@@ -1,6 +1,6 @@
 Applause Sign 
 Copyright 2011 Tyler Freeman
-http://obdbol.com
+http://odbol.com
 
 A basic "APPLAUSE" sign with editable text. A Flash movie designed for the VJ program Resolume Avenue ( http://www.resolume.com ). 
 
